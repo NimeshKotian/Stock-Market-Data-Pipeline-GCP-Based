@@ -70,7 +70,7 @@ Alpha Vantage API → Google Pub/Sub → Python Processor → BigQuery & GCS →
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/NimeshKotian/Stock-Market-Data-Pipeline-GCP-Based.git
 cd your-repo-name
 ```
 
